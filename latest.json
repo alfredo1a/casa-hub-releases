@@ -1,0 +1,7 @@
+{
+    "versionCode":  2,
+    "versionName":  "1.0.1",
+    "notes":  "Atualização automática (servidor da casa + GitHub), aviso quando a rede dos aparelhos cai, aparelhos offline, correção do microfone e da temperatura externa.",
+    "apk":  "casahub-2.apk",
+    "size":  31629824
+}
