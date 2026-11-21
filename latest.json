@@ -1,7 +1,7 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.3.0",
-    "notes":  "Avisos no celular pelo Firebase (camera, presenca, rede, resumo diario), mesmo com o app fechado. Tocar no aviso abre a tela certa. Teste em Ajustes \u003e Avisos no celular.",
-    "apk":  "casahub-6.apk",
-    "size":  33582275
+    "versionCode":  7,
+    "versionName":  "1.4.0",
+    "notes":  "Video ao vivo continuo nas cameras (10 quadros/s, sem travar). Opcao de inverter as setas da camera. Lembrete de limpeza do filtro do ar. Protecao contra excesso de avisos.",
+    "apk":  "casahub-7.apk",
+    "size":  33785608
 }
