@@ -1,7 +1,7 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.1.0",
-    "notes":  "Novidades: câmeras com detecção de movimento e IA (avisa só pessoa/carro/animal) e gravação no PC; modo sono do ar; resumo diário; presença (desliga o ar quando todos saem); tarifa branca e tarifa automática pela IA; widget do ar na tela inicial; aviso quando o PC estiver fora do ar.",
-    "apk":  "casahub-4.apk",
-    "size":  33552290
+    "versionCode":  5,
+    "versionName":  "1.2.0",
+    "notes":  "Lia: assistente com nome, botao flutuante, conversa continua por voz, widget e atalho no icone. Cameras: setas para mover a lente, posicoes salvas e comando por voz. IA volta a funcionar (troca automatica de modelo do Gemini). Tarifa Cemig.",
+    "apk":  "casahub-5.apk",
+    "size":  33571795
 }
