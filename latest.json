@@ -1,7 +1,7 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.0.2",
-    "notes":  "Telas não ficam mais carregando para sempre quando o servidor não responde; configuração por link; aparelhos reconectados aparecem em até 5 minutos.",
-    "apk":  "casahub-3.apk",
-    "size":  31630576
+    "versionCode":  4,
+    "versionName":  "1.1.0",
+    "notes":  "Novidades: câmeras com detecção de movimento e IA (avisa só pessoa/carro/animal) e gravação no PC; modo sono do ar; resumo diário; presença (desliga o ar quando todos saem); tarifa branca e tarifa automática pela IA; widget do ar na tela inicial; aviso quando o PC estiver fora do ar.",
+    "apk":  "casahub-4.apk",
+    "size":  33552290
 }
