@@ -1,7 +1,7 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.2.0",
-    "notes":  "Lia: assistente com nome, botao flutuante, conversa continua por voz, widget e atalho no icone. Cameras: setas para mover a lente, posicoes salvas e comando por voz. IA volta a funcionar (troca automatica de modelo do Gemini). Tarifa Cemig.",
-    "apk":  "casahub-5.apk",
-    "size":  33571795
+    "versionCode":  6,
+    "versionName":  "1.3.0",
+    "notes":  "Avisos no celular pelo Firebase (camera, presenca, rede, resumo diario), mesmo com o app fechado. Tocar no aviso abre a tela certa. Teste em Ajustes \u003e Avisos no celular.",
+    "apk":  "casahub-6.apk",
+    "size":  33582275
 }
