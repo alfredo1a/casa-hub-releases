@@ -1,7 +1,7 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.4.2",
-    "notes":  "Ao abrir o app (ou voltar para ele), o Casa Hub procura sozinho aparelhos novos do Smart Life e avisa quando encontra.",
-    "apk":  "casahub-9.apk",
-    "size":  33787376
+    "versionCode":  10,
+    "versionName":  "1.5.0",
+    "notes":  "Movimentos: selecione vários e apague de uma vez (segure um movimento ou toque em Selecionar). A Lia também liga/desliga os avisos de movimento.",
+    "apk":  "casahub-10.apk",
+    "size":  33792408
 }
