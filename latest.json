@@ -1,7 +1,7 @@
 {
-    "versionCode":  11,
-    "versionName":  "1.5.1",
-    "notes":  "Atualização mostra o progresso do download (barra no topo) e baixa do GitHub, bem mais rápido. Ajustes mostra \u0027Carregando\u0027 em vez de ficar em branco.",
-    "apk":  "casahub-11.apk",
-    "size":  33797108
+    "versionCode":  12,
+    "versionName":  "1.5.2",
+    "notes":  "Avisos: chave geral para desligar todas as notificações (Ajustes \u003e Avisos no celular). Lâmpada offline não avisa mais (interruptor da parede) e aparelho offline avisa no máximo 1 vez a cada 12 h.",
+    "apk":  "casahub-12.apk",
+    "size":  33798424
 }
