@@ -1,7 +1,7 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.4.1",
-    "notes":  "IA fora das cameras por padrao (nao gasta a cota da assistente), com chave em Ajustes \u003e Assistente. Video das cameras para de transmitir com o app em segundo plano.",
-    "apk":  "casahub-8.apk",
-    "size":  33786948
+    "versionCode":  9,
+    "versionName":  "1.4.2",
+    "notes":  "Ao abrir o app (ou voltar para ele), o Casa Hub procura sozinho aparelhos novos do Smart Life e avisa quando encontra.",
+    "apk":  "casahub-9.apk",
+    "size":  33787376
 }
