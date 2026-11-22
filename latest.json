@@ -1,7 +1,7 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.5.0",
-    "notes":  "Movimentos: selecione vários e apague de uma vez (segure um movimento ou toque em Selecionar). A Lia também liga/desliga os avisos de movimento.",
-    "apk":  "casahub-10.apk",
-    "size":  33792408
+    "versionCode":  11,
+    "versionName":  "1.5.1",
+    "notes":  "Atualização mostra o progresso do download (barra no topo) e baixa do GitHub, bem mais rápido. Ajustes mostra \u0027Carregando\u0027 em vez de ficar em branco.",
+    "apk":  "casahub-11.apk",
+    "size":  33797108
 }
