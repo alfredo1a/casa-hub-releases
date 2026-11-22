@@ -1,7 +1,7 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.5.3",
-    "notes":  "Avisos: agora dá para escolher quais receber, um por um (Ajustes \u003e Quais avisos receber). Correções: barra de apagar vídeos não cobre mais o último, botão voltar sai da seleção, APKs antigos são apagados do celular.",
-    "apk":  "casahub-13.apk",
-    "size":  33802200
+    "versionCode":  14,
+    "versionName":  "1.5.4",
+    "notes":  "Conexão: o app troca sozinho entre a rede de casa e o Tailscale. Em casa funciona mesmo com o Tailscale desligado.",
+    "apk":  "casahub-14.apk",
+    "size":  33805908
 }
