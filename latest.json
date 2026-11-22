@@ -1,7 +1,7 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.5.2",
-    "notes":  "Avisos: chave geral para desligar todas as notificações (Ajustes \u003e Avisos no celular). Lâmpada offline não avisa mais (interruptor da parede) e aparelho offline avisa no máximo 1 vez a cada 12 h.",
-    "apk":  "casahub-12.apk",
-    "size":  33798424
+    "versionCode":  13,
+    "versionName":  "1.5.3",
+    "notes":  "Avisos: agora dá para escolher quais receber, um por um (Ajustes \u003e Quais avisos receber). Correções: barra de apagar vídeos não cobre mais o último, botão voltar sai da seleção, APKs antigos são apagados do celular.",
+    "apk":  "casahub-13.apk",
+    "size":  33802200
 }
